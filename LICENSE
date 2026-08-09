@@ -1,0 +1,57 @@
+SureKey Noncommercial License
+Version 1.0, 2026
+
+Copyright (c) 2026 midesmis.com. All rights not expressly granted below
+are reserved.
+
+1. Grant of rights
+
+Subject to the terms of this License, the copyright holder grants you a
+worldwide, royalty-free, non-exclusive license to use, copy, modify, and
+redistribute this software ("the Software") and derivative works based on
+it, in source or compiled form, for personal, educational, or internal
+non-commercial purposes.
+
+2. Commercial use requires written authorization
+
+You may NOT, without prior written authorization from midesmis.com and
+its creator/founder:
+
+  a. Sell, resell, sublicense, or otherwise charge money for the
+     Software or any derivative work based on it;
+  b. Offer the Software, or any derivative work based on it, as part of
+     a paid product, a hosted service, or a managed service operated for
+     a third party, whether or not you charge for the Software itself;
+  c. Present, market, or register the Software or a derivative work as
+     your own or your organization's original creation; or
+  d. Otherwise use the Software, or a derivative work based on it, to
+     derive commercial or monetary benefit.
+
+Requests for commercial authorization may be directed through
+https://midesmis.com.
+
+3. Attribution
+
+Any copy or redistribution of the Software, modified or not, must
+retain this License in full and the copyright notice above.
+
+4. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES,
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR
+THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+See also the Terms and Conditions shipped with this software
+(web/terms.html) for additional terms governing its use, including a
+broader disclaimer of liability for misuse, misconfiguration, or
+compromise of a deployed instance.
+
+5. Termination
+
+Any use of the Software in violation of this License automatically
+terminates the rights granted to you under Section 1. Rights may be
+reinstated at the sole discretion of the copyright holder.
