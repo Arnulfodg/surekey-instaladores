@@ -24,9 +24,6 @@ Qué incluye:
   seguridad — si la olvidás, no perdés la bóveda.
 - **Segundo factor (TOTP)** opcional, compatible con cualquier app
   autenticadora (Google Authenticator, Authy, etc.).
-- **Bóveda de archivos**: cuatro secciones separadas (Fotos, Videos,
-  Documentos, Otros) para guardar archivos sueltos con su propia
-  contraseña de acceso, independiente de la bóveda de credenciales.
 - **Backup y restauración** cifrados, exportables como un solo archivo.
 - **Interfaz en español e inglés**, pensada para usarse cómodamente
   desde el celular.
@@ -96,10 +93,8 @@ sha256sum -c SHA256SUMS
    de seguridad para poder recuperar el acceso si alguna vez olvidás la
    contraseña.
 3. Después de eso, cada vez que entres vas a iniciar sesión con esa
-   contraseña maestra. Desde ahí podés agregar sitios, credenciales,
-   activar el segundo factor (TOTP) desde "Administración", y usar las
-   secciones de Fotos/Videos/Documentos/Otros archivos (cada una te va a
-   pedir su propia contraseña la primera vez que entrés).
+   contraseña maestra. Desde ahí podés agregar sitios y credenciales, y
+   activar el segundo factor (TOTP) desde "Administración".
 4. Actualizar a una versión nueva es tan simple como repetir el paso 3
    de instalación con el `.deb` más reciente — `apt` se encarga de
    reemplazar el binario y reiniciar el servicio solo.
