@@ -33,8 +33,8 @@ Es gratis y de código cerrado en este repositorio — ver la sección de
 
 ## Cómo se instala
 
-1. **Elegí el paquete correcto para tu equipo**, dentro de la carpeta de
-   la versión más reciente (por ejemplo [`v0.3.3/`](v0.3.3/)):
+1. **Elegí el paquete correcto para tu equipo**, en la
+   [versión más reciente](https://github.com/Arnulfodg/surekey-instaladores/releases/latest):
 
    | Arquitectura | Para qué equipo |
    |---|---|
@@ -45,9 +45,23 @@ Es gratis y de código cerrado en este repositorio — ver la sección de
    Si no sabés cuál te corresponde en una Raspberry Pi, corré `uname -m`:
    `aarch64` → `arm64`, `armv7l` → `armhf`.
 
-2. **Descargá el `.deb`** de la carpeta de la versión (botón "Download"
-   al abrir el archivo en GitHub, o clic derecho → "Guardar enlace
-   como..." sobre el link "raw").
+2. **Descargá el `.deb`** desde la terminal, con el comando de tu
+   arquitectura (versión actual: **v0.3.8**):
+
+   ```bash
+   # amd64 — PC o servidor (Intel/AMD, 64 bits)
+   curl -fLO https://github.com/Arnulfodg/surekey-instaladores/releases/download/v0.3.8/surekey_0.3.8_amd64.deb
+
+   # arm64 — Raspberry Pi 4 o 5 con sistema de 64 bits
+   curl -fLO https://github.com/Arnulfodg/surekey-instaladores/releases/download/v0.3.8/surekey_0.3.8_arm64.deb
+
+   # armhf — Raspberry Pi más antigua, o sistema de 32 bits
+   curl -fLO https://github.com/Arnulfodg/surekey-instaladores/releases/download/v0.3.8/surekey_0.3.8_armhf.deb
+   ```
+
+   El archivo queda en la carpeta donde corriste el comando. Si preferís
+   el navegador, los mismos archivos están en la página de
+   [Releases](https://github.com/Arnulfodg/surekey-instaladores/releases/latest).
 
 3. **Instalalo**:
 
